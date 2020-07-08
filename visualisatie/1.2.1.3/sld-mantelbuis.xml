@@ -884,8 +884,8 @@
                     </LineSymbolizer>
                 </Rule>
                 <Rule>
-                    <Name>laagspanning-geprojecteerd-z15-16-geen-extrageometrie-onder</Name>
-                    <Title>Laagspanning (LS) geprojecteerd op zoomniveau 15 en 16 zonder ExtraGeometrie - onder</Title>
+                    <Name>laagspanning-buiten-gebruik-z15-16-geen-extrageometrie-onder</Name>
+                    <Title>Laagspanning (LS) buiten gebruik op zoomniveau 15 en 16 zonder ExtraGeometrie - onder</Title>
                     <ogc:Filter>
                         <ogc:And>
                             <ogc:PropertyIsEqualTo>
@@ -4692,8 +4692,8 @@
                     </PointSymbolizer>
                 </Rule>
                 <Rule>
-                    <Name>laagspanning-geprojecteerd-z15-16-geen-extrageometrie-boven</Name>
-                    <Title>Laagspanning (LS) geprojecteerd op zoomniveau 15 en 16 zonder ExtraGeometrie - boven</Title>
+                    <Name>laagspanning-buiten-gebruik-z15-16-geen-extrageometrie-boven</Name>
+                    <Title>Laagspanning (LS) buiten gebruik op zoomniveau 15 en 16 zonder ExtraGeometrie - boven</Title>
                     <ogc:Filter>
                         <ogc:And>
                             <ogc:PropertyIsEqualTo>

@@ -1419,8 +1419,8 @@
                     </PolygonSymbolizer>
                 </Rule>
                 <Rule>
-                    <Name>laagspanning-geprojecteerd-z15-16-geen-extrageometrie</Name>
-                    <Title>Laagspanning (LS) geprojecteerd op zoomniveau 15 en 16 met ExtraGeometrie</Title>
+                    <Name>laagspanning-buiten-gebruik-z15-16-geen-extrageometrie</Name>
+                    <Title>Laagspanning (LS) buiten gebruik op zoomniveau 15 en 16 met ExtraGeometrie</Title>
                     <ogc:Filter>
                         <ogc:And>
                             <ogc:PropertyIsEqualTo>

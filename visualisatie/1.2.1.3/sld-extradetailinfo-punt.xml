@@ -27,7 +27,7 @@
                     </PointSymbolizer>
                 </Rule>
                 <Rule>
-                    <Name>extradetailfino-punt-z14</Name>
+                    <Name>extradetailinfo-punt-z14</Name>
                     <Title>ExtraDetailinfo op zoomniveau 14</Title>
                     <MinScaleDenominator>501</MinScaleDenominator>
                     <MaxScaleDenominator>1250</MaxScaleDenominator>
